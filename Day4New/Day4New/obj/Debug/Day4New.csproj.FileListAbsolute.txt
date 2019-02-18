@@ -1,0 +1,7 @@
+C:\Users\Hariprasad Kottarath\Documents\GDIPSA\Day4New\Day4New\bin\Debug\Day4New.exe.config
+C:\Users\Hariprasad Kottarath\Documents\GDIPSA\Day4New\Day4New\bin\Debug\Day4New.exe
+C:\Users\Hariprasad Kottarath\Documents\GDIPSA\Day4New\Day4New\bin\Debug\Day4New.pdb
+C:\Users\Hariprasad Kottarath\Documents\GDIPSA\Day4New\Day4New\obj\Debug\Day4New.csprojAssemblyReference.cache
+C:\Users\Hariprasad Kottarath\Documents\GDIPSA\Day4New\Day4New\obj\Debug\Day4New.csproj.CoreCompileInputs.cache
+C:\Users\Hariprasad Kottarath\Documents\GDIPSA\Day4New\Day4New\obj\Debug\Day4New.exe
+C:\Users\Hariprasad Kottarath\Documents\GDIPSA\Day4New\Day4New\obj\Debug\Day4New.pdb
